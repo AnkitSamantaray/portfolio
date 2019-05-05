@@ -124,7 +124,7 @@ header.scrollOn { background-color: #FFF; color: #333; box-shadow: 0px 2px 12px 
 .home-scroll {
   position: absolute;
   bottom: 50px;
-  left: 50%;
+  left: 52%;
   -webkit-transform: translate(-50%); 
 	-moz-transform: translate(-50%);
 	-ms-transform: translate(-50%);
